@@ -1,4 +1,4 @@
-# Crawler-Filter-CourseCatalog
+# Crawler-Search-CourseCatalog
 crawler.py -- Crawls through courses from (now defunct) UChicago Course Catalog website 
 to generate index of courses by words in description for students to find classes. Allows user to filter classes by specific words (i.e. search for all classes whose title or description contains the word "Markov")
 
