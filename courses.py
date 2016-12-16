@@ -2,6 +2,8 @@
 ### 2/2/16
 ### Joseph Day --No partner -- PA3
 
+#Code for generating SQL search query based on user inputs from a Django interface.
+#Then function "find_courses" filters courses according to user criterion and returns list
 
 from math import radians, cos, sin, asin, sqrt
 import sqlite3
