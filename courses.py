@@ -1,12 +1,7 @@
-### CS122 W16: Course search engine: search
+### CS122 W16: Course search engine: Search
 ### 2/2/16
 ### Joseph Day --No partner -- PA3
 
-###NOTE: I couldn't find any instruction in PA assignment on DATA_DIR
-### or DATABASE_FILENAME. So I interpreted the comment there
-### and I used DATABASE_FILENAME in place of course-info.db.
-### My code works as far as I can ascertain whether I put either 
-### one in. But just letting you know in case this causes major problems. 
 
 from math import radians, cos, sin, asin, sqrt
 import sqlite3
