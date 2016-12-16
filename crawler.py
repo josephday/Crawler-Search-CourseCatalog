@@ -1,5 +1,7 @@
 # CS122: Course Search Engine Part 1
-# THE CRAWLER
+# THE CRAWLER -- Python file contains functions for crawling through the now defunct UChicago course catalog
+# and collecting class titles, departments, course numbers, descriptions, professors, etc.
+# and generating csv file that can easily later be inputted into a mysql database.
 # Joseph Day -- Rogers Section -- PA 2
 
 import re
