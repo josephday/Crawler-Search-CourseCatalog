@@ -1,2 +1,3 @@
 # Crawler-Filter-CourseCatalog
-Generates course database from (now defunct) UChicago Course Catalog website
+Generates database of courses from (now defunct) UChicago Course Catalog website 
+and uses in filter application for students to find classes.
