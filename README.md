@@ -33,6 +33,7 @@ warmup.py -- Proof of concept and warmup
 wsgi.py -- Deploys Django with WSGI
 
 Below is the assignment description of part 1 (the crawler) as provided in UChicago CMSC 12200 Winter 2016
+
 """YOUR TASK
 A search engine relies on an index that maps words to the pages in which they appear. This index is built by crawling the web and indexing the information on the pages the crawler visits. The crawler starts at a specified page and follows the links on that page to other pages and from those pages to yet more pages and so on until it has visited all pages reachable from the initial page.
 
@@ -91,4 +92,4 @@ In part 2 of this assignment, you will be loading the index generated in this pa
 484|abandoned
 2336|abandoned
 1175|abandonment
-Notice that the same word may appear in multiple lines of the file (corresponding to the word appearing in the descriptions of multiple courses). Any given course identifier/word pair should occur at most once. (FYI, aanl is a department code, not a true English word, but it fits our definition of “word”.)
+Notice that the same word may appear in multiple lines of the file (corresponding to the word appearing in the descriptions of multiple courses). Any given course identifier/word pair should occur at most once. (FYI, aanl is a department code, not a true English word, but it fits our definition of “word”.)"""
